@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300&display=swap');
+*{
+  font-family: 'Manrope', sans-serif;
+}
+
+body::-webkit-scrollbar {
+  width: .5em;
+}
+ 
+body::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+ 
+body::-webkit-scrollbar-thumb {
+  background-color:rgb(255, 208, 143);
+  border-radius: 50px;
+}
